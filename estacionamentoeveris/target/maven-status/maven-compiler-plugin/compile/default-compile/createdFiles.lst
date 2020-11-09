@@ -1,0 +1,12 @@
+br\com\dieferson\estacionamentoeveris\repository\ClienteRepository.class
+br\com\dieferson\estacionamentoeveris\model\Veiculo.class
+br\com\dieferson\estacionamentoeveris\service\TicketService.class
+br\com\dieferson\estacionamentoeveris\model\TipoVeiculo.class
+br\com\dieferson\estacionamentoeveris\repository\VeiculoRepository.class
+br\com\dieferson\estacionamentoeveris\execption\Mensagem.class
+br\com\dieferson\estacionamentoeveris\model\Ticket.class
+br\com\dieferson\estacionamentoeveris\EstacionamentoEverisApplication.class
+br\com\dieferson\estacionamentoeveris\controller\TicketController.class
+br\com\dieferson\estacionamentoeveris\repository\TicketRepository.class
+br\com\dieferson\estacionamentoeveris\model\Cliente.class
+br\com\dieferson\estacionamentoeveris\execption\ValidacaoException.class
